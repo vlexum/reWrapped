@@ -20,4 +20,7 @@ Simple python script that wrote I because when I saw my Spotify Wrapped I was un
 ![image](https://user-images.githubusercontent.com/79882639/210103682-51ea673d-2b7c-4557-9a54-bb158dfdce47.png)
 
 ## Takeaway
-Spotify Wrapped "generally" lines up with my streaming data. There are certainly 
+There are a few places where our conclusions diverge. I requested my data at the start of December and thus I expect
+that my requested data had more streaming data. I am completey unaware of how the official wrapped works and it "generally"
+lines up with what I have found. What initially piqued my interest was my #1 and #2 artist, which felt flipped and after looking at the results 
+it does look that way.
