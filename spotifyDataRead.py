@@ -1,7 +1,7 @@
 import pandas as pd
 import plotnine as p9
 
-# read in spotify json files
+# what year do we want to look at
 wrapped_year = "2022"
 
 # list of json file names 
